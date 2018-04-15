@@ -1,0 +1,10 @@
+prefix=/usr/local
+exec_prefix=${prefix}/bin
+includedir=${prefix}/include
+libdir=${prefix}/lib
+
+Name: libcouchbase 2.8.6_1_gd17bad8
+Description: Couchbase client library
+Version: 2.8.6_1_gd17bad8
+Libs: -L${libdir} -lcouchbase
+Cflags: -I${includedir}

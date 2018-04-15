@@ -1,0 +1,1 @@
+/usr/bin/c++    -fno-strict-aliasing -pthread   CMakeFiles/check-all.dir/check-all.cc.o CMakeFiles/check-all.dir/mocksupport/procutil.c.o ../contrib/cliopts/CMakeFiles/cliopts.dir/cliopts.c.o  -o ../bin/check-all -rdynamic ../lib/libcouchbaseS.a -lm -ldl -lresolv -lssl -lcrypto -lrt 

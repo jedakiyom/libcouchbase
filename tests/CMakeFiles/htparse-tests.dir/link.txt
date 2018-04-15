@@ -1,0 +1,1 @@
+/usr/bin/c++    -fno-strict-aliasing -pthread   CMakeFiles/htparse-tests.dir/nonio_tests.cc.o CMakeFiles/htparse-tests.dir/htparse/t_basic.cc.o  -o ../bin/htparse-tests -rdynamic ../lib/libgtest.so ../lib/libcouchbaseS.a -lm -ldl -lresolv -lssl -lcrypto -lrt -Wl,-rpath,/home/predator/Documents/Project/temp/libcouchbase/lib 

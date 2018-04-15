@@ -1,0 +1,1 @@
+/usr/bin/c++    -fno-strict-aliasing -pthread   CMakeFiles/netbuf-tests.dir/nonio_tests.cc.o CMakeFiles/netbuf-tests.dir/basic/t_netbuf.cc.o ../CMakeFiles/netbuf.dir/src/netbuf/netbuf.c.o  -o ../bin/netbuf-tests -rdynamic ../lib/libgtest.so -Wl,-rpath,/home/predator/Documents/Project/temp/libcouchbase/lib 

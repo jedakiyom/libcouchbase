@@ -1,0 +1,178 @@
+[  0%] Building C object plugins/io/select/CMakeFiles/couchbase_select.dir/plugin-select.c.o
+[  0%] Built target couchbase_select
+[  1%] Building C object CMakeFiles/mcreq.dir/src/mc/mcreq.c.o
+[  1%] Building C object CMakeFiles/mcreq.dir/src/mc/forward.c.o
+[  1%] Built target mcreq
+[  3%] Building C object CMakeFiles/couchbase_utils.dir/contrib/genhash/genhash.c.o
+[  3%] Building C object CMakeFiles/couchbase_utils.dir/src/strcodecs/base64.c.o
+[  5%] Building C object CMakeFiles/couchbase_utils.dir/src/gethrtime.c.o
+[  5%] Building C object CMakeFiles/couchbase_utils.dir/src/hashtable.c.o
+[  7%] Building C object CMakeFiles/couchbase_utils.dir/src/list.c.o
+[  7%] Building C object CMakeFiles/couchbase_utils.dir/src/logging.c.o
+[  9%] Building C object CMakeFiles/couchbase_utils.dir/src/ringbuffer.c.o
+[  9%] Built target couchbase_utils
+[ 11%] Building CXX object CMakeFiles/lcbio-cxx.dir/src/lcbio/ioutils.cc.o
+[ 11%] Building CXX object CMakeFiles/lcbio-cxx.dir/src/lcbio/manager.cc.o
+[ 13%] Building CXX object CMakeFiles/lcbio-cxx.dir/src/lcbio/connect.cc.o
+[ 13%] Built target lcbio-cxx
+[ 15%] Building C object CMakeFiles/netbuf.dir/src/netbuf/netbuf.c.o
+[ 15%] Built target netbuf
+[ 17%] Building CXX object CMakeFiles/mcreq-cxx.dir/src/mc/compress.cc.o
+[ 17%] Built target mcreq-cxx
+[ 17%] Building C object CMakeFiles/lcbcore.dir/src/callbacks.c.o
+[ 17%] Building C object CMakeFiles/lcbcore.dir/src/legacy.c.o
+[ 19%] Building C object CMakeFiles/lcbcore.dir/src/iofactory.c.o
+[ 19%] Building C object CMakeFiles/lcbcore.dir/src/settings.c.o
+[ 21%] Building C object CMakeFiles/lcbcore.dir/src/utilities.c.o
+[ 21%] Building C object CMakeFiles/lcbcore.dir/src/timings.c.o
+[ 21%] Built target lcbcore
+[ 23%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/instance.cc.o
+[ 23%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/auth.cc.o
+[ 25%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/bootstrap.cc.o
+[ 25%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/bucketconfig/bc_cccp.cc.o
+[ 26%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/bucketconfig/bc_http.cc.o
+[ 26%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/bucketconfig/bc_file.cc.o
+[ 26%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/bucketconfig/bc_static.cc.o
+[ 28%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/bucketconfig/confmon.cc.o
+[ 28%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/connspec.cc.o
+[ 30%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/crypto.cc.o
+[ 30%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/dns-srv.cc.o
+[ 32%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/dump.cc.o
+[ 32%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/errmap.cc.o
+[ 34%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/getconfig.cc.o
+[ 34%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/nodeinfo.cc.o
+[ 34%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/handler.cc.o
+[ 36%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/hostlist.cc.o
+[ 36%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/http/http.cc.o
+[ 38%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/http/http_io.cc.o
+[ 38%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/lcbht/lcbht.cc.o
+[ 40%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/newconfig.cc.o
+[ 40%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/n1ql/params.cc.o
+[ 42%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/n1ql/n1ql.cc.o
+[ 42%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/n1ql/ixmgmt.cc.o
+[ 42%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/cbft.cc.o
+[ 44%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/operations/cbflush.cc.o
+[ 44%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/operations/counter.cc.o
+[ 46%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/operations/durability.cc.o
+[ 46%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/operations/durability-cas.cc.o
+[ 48%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/operations/durability-seqno.cc.o
+[ 48%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/operations/get.cc.o
+[ 50%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/operations/observe.cc.o
+[ 50%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/operations/observe-seqno.cc.o
+[ 51%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/operations/pktfwd.cc.o
+[ 51%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/operations/remove.cc.o
+[ 51%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/operations/stats.cc.o
+[ 53%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/operations/store.cc.o
+[ 53%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/operations/subdoc.cc.o
+[ 55%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/operations/touch.cc.o
+[ 55%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/operations/ping.cc.o
+[ 57%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/mcserver/mcserver.cc.o
+[ 57%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/mcserver/negotiate.cc.o
+[ 59%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/metrics.cc.o
+[ 59%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/retrychk.cc.o
+[ 59%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/retryq.cc.o
+[ 61%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/rnd.cc.o
+[ 61%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/views/docreq.cc.o
+[ 63%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/views/viewreq.cc.o
+[ 63%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/cntl.cc.o
+[ 65%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/wait.cc.o
+[ 65%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/tracing/span.cc.o
+[ 67%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/tracing/threshold_logging_tracer.cc.o
+[ 67%] Building CXX object CMakeFiles/lcbcore-cxx.dir/src/tracing/tracer.cc.o
+[ 67%] Built target lcbcore-cxx
+[ 69%] Building CXX object CMakeFiles/lcb_jsparse.dir/src/jsparse/parser.cc.o
+[ 69%] Built target lcb_jsparse
+[ 69%] Building C object CMakeFiles/rdb.dir/src/rdb/libcalloc.c.o
+[ 71%] Building C object CMakeFiles/rdb.dir/src/rdb/rope.c.o
+[ 71%] Building C object CMakeFiles/rdb.dir/src/rdb/bigalloc.c.o
+[ 73%] Building C object CMakeFiles/rdb.dir/src/rdb/chunkalloc.c.o
+[ 73%] Built target rdb
+[ 75%] Building C object CMakeFiles/lcbio.dir/src/lcbio/ctx.c.o
+[ 75%] Building C object CMakeFiles/lcbio.dir/src/lcbio/protoctx.c.o
+[ 76%] Building C object CMakeFiles/lcbio.dir/src/lcbio/iotable.c.o
+[ 76%] Building C object CMakeFiles/lcbio.dir/src/lcbio/timer.c.o
+[ 76%] Built target lcbio
+[ 76%] Building C object CMakeFiles/lcbht.dir/contrib/http_parser/http_parser.c.o
+[ 76%] Built target lcbht
+[ 76%] Building C object src/vbucket/CMakeFiles/vbucket.dir/vbucket.c.o
+[ 78%] Building C object src/vbucket/CMakeFiles/vbucket.dir/ketama.c.o
+[ 78%] Building C object src/vbucket/CMakeFiles/vbucket.dir/__/__/contrib/cJSON/cJSON.c.o
+[ 78%] Built target vbucket
+[ 80%] Building C object contrib/cbsasl/CMakeFiles/cbsasl.dir/src/hash.c.o
+[ 80%] Building C object contrib/cbsasl/CMakeFiles/cbsasl.dir/src/common.c.o
+[ 80%] Building C object contrib/cbsasl/CMakeFiles/cbsasl.dir/src/client.c.o
+[ 82%] Building C object contrib/cbsasl/CMakeFiles/cbsasl.dir/src/cram-md5/hmac.c.o
+[ 82%] Building C object contrib/cbsasl/CMakeFiles/cbsasl.dir/src/cram-md5/md5.c.o
+[ 82%] Built target cbsasl
+[ 82%] Building C object src/ssl/CMakeFiles/lcbssl.dir/ssl_e.c.o
+[ 84%] Building C object src/ssl/CMakeFiles/lcbssl.dir/ssl_c.c.o
+[ 84%] Building C object src/ssl/CMakeFiles/lcbssl.dir/ssl_common.c.o
+[ 84%] Built target lcbssl
+[ 84%] Building CXX object contrib/lcb-jsoncpp/CMakeFiles/lcb_jsoncpp.dir/lcb-jsoncpp.cpp.o
+[ 84%] Built target lcb_jsoncpp
+[ 84%] Building CXX object contrib/snappy/CMakeFiles/lcb_snappy.dir/snappy-sinksource.cc.o
+[ 86%] Building CXX object contrib/snappy/CMakeFiles/lcb_snappy.dir/snappy-stubs-internal.cc.o
+[ 86%] Building CXX object contrib/snappy/CMakeFiles/lcb_snappy.dir/snappy.cc.o
+[ 88%] Building CXX object contrib/snappy/CMakeFiles/lcb_snappy.dir/snappy-c.cc.o
+[ 88%] Built target lcb_snappy
+[ 88%] Linking CXX static library lib/libcouchbaseS.a
+[ 88%] Built target couchbaseS
+[ 88%] Building C object CMakeFiles/netbuf-malloc.dir/src/netbuf/netbuf.c.o
+[ 88%] Built target netbuf-malloc
+[ 90%] Linking CXX shared library lib/libcouchbase.so
+[ 90%] Built target couchbase
+[ 90%] Building C object contrib/cliopts/CMakeFiles/cliopts.dir/cliopts.c.o
+[ 90%] Built target cliopts
+[ 90%] Building CXX object tests/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o
+[ 92%] Linking CXX shared library ../../lib/libgtest.so
+[ 92%] Built target gtest
+[ 92%] Building CXX object tests/gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o
+[ 92%] Linking CXX shared library ../../lib/libgtest_main.so
+[ 92%] Built target gtest_main
+[ 92%] Building CXX object tools/CMakeFiles/lcbtools.dir/common/options.cc.o
+[ 94%] Building CXX object tools/CMakeFiles/lcbtools.dir/common/histogram.cc.o
+[ 94%] Built target lcbtools
+[ 96%] Building CXX object tools/CMakeFiles/cbc-n1qlback.dir/cbc-n1qlback.cc.o
+[ 96%] Linking CXX executable ../bin/cbc-n1qlback
+[ 96%] Built target cbc-n1qlback
+[ 98%] Building CXX object tools/CMakeFiles/cbc-pillowfight.dir/cbc-pillowfight.cc.o
+[ 98%] Linking CXX executable ../bin/cbc-pillowfight
+[ 98%] Built target cbc-pillowfight
+[ 98%] Building C object tools/CMakeFiles/linenoise.dir/linenoise/linenoise.c.o
+[ 98%] Built target linenoise
+[ 98%] Building CXX object tools/CMakeFiles/cbc.dir/cbc.cc.o
+[ 98%] Linking CXX executable ../bin/cbc
+Linking cbc -> cbc-cat
+Linking cbc -> cbc-create
+Linking cbc -> cbc-observe
+Linking cbc -> cbc-observe-seqno
+Linking cbc -> cbc-incr
+Linking cbc -> cbc-decr
+Linking cbc -> cbc-mcflush
+Linking cbc -> cbc-hash
+Linking cbc -> cbc-lock
+Linking cbc -> cbc-unlock
+Linking cbc -> cbc-rm
+Linking cbc -> cbc-stats
+Linking cbc -> cbc-version
+Linking cbc -> cbc-verbosity
+Linking cbc -> cbc-view
+Linking cbc -> cbc-n1ql
+Linking cbc -> cbc-admin
+Linking cbc -> cbc-ping
+Linking cbc -> cbc-bucket-create
+Linking cbc -> cbc-bucket-delete
+Linking cbc -> cbc-bucket-flush
+Linking cbc -> cbc-connstr
+Linking cbc -> cbc-write-config
+Linking cbc -> cbc-strerror
+Linking cbc -> cbc-touch
+Linking cbc -> cbc-role-list
+Linking cbc -> cbc-user-list
+Linking cbc -> cbc-user-upsert
+Linking cbc -> cbc-user-delete
+Linking cbc -> cbc-watch
+[ 98%] Built target cbc
+[100%] Building CXX object tools/CMakeFiles/cbc-subdoc.dir/cbc-subdoc.cc.o
+[100%] Linking CXX executable ../bin/cbc-subdoc
+[100%] Built target cbc-subdoc
